@@ -32,8 +32,6 @@ The dataset included sales information such as product name, amount, customer ID
 ## 📂 Files Included
 - `Day1_SalesData_Setup.sql` — SQL script to recreate and populate the SalesData table
 - `Day1_SQL_Practice_Checklist.xlsx` — Challenge tracker to monitor learning progress
-- `Day2_CustomerInfo_Setup.sql` - SQL script to recreate and populate the CustomerInfo table
-- `Day2_CustomerPurchaseBehavior.sql` SQL file with queries
 
 ---
 
@@ -83,6 +81,38 @@ Show all sales ordered by amount from highest to lowest.
 Find sales where the product is 'Laptop'.
 ![laptop Sales](Day1_Screenshots/laptop.jpg)
 
+# 📊 Day 2: Customer Purchase Behavior Analysis (SQL Joins Project)
+
+---
+
+## 🛠️ Skills Practiced
+- SQL Joins (INNER JOIN)
+- Aggregations (SUM, AVG, COUNT)
+- Conditional Logic (CASE WHEN)
+- Grouping and Sorting Data
+- Data Analysis across multiple tables
+
+---
+
+## 📚 Project Overview
+In this project, I analyzed customer purchasing behavior by joining a `SalesData` table with a `CustomerInfo` table.  
+I extracted insights such as:
+- Total amount spent by each customer
+- Spending trends by loyalty status (Gold, Silver, Bronze)
+- Categorization of sales into "High Value Sales" vs. "Regular Sales"
+- Summary reports showing customer behavior metrics like total purchases and average purchase amount.
+
+This exercise focused on **data joining**, **data aggregation**, **conditional transformations**, and **summary reporting** — key skills for a data analyst.
+
+---
+
+## 📂 Files Included
+- `Day2_CustomerInfo_Setup.sql` — Script to create and populate the CustomerInfo table
+- `Day2_CustomerBehavior_Queries.sql` — All SQL queries for challenges and mini-project
+- `/Day2_Screenshots/` — Folder containing screenshots of query results
+
+---
+
 ## 📸 Day 2 Screenshots
 
 ### Challenge 1: Customer Purchases
@@ -99,4 +129,12 @@ Find sales where the product is 'Laptop'.
 
 ### Mini Project: Customer Behavior Report
 ![Customer Behavior Report](Day2_Screenshots/mini_project_customer_behavior_report.JPG)
+
+---
+
+## 🚀 Key Learnings
+- How to combine multiple tables in SQL to create richer insights
+- How to use aggregation and grouping to summarize customer behavior
+- How to apply conditional logic inside SQL queries
+- How to document and present SQL results professionally
 
