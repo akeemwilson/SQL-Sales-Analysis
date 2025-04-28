@@ -1,4 +1,9 @@
 # SQL Sales Analysis
+
+![SQL](https://img.shields.io/badge/Language-SQL-blue)
+![SQLite](https://img.shields.io/badge/Database-SQLite-green)
+![Data Analysis](https://img.shields.io/badge/Skill-Data_Analysis-lightgrey)
+![Portfolio Project](https://img.shields.io/badge/Project-Type_Portfolio-orange)
   
 Mini-project analyzing fictional sales data using SQL queries to find sales trends, top products, and customer behavior patterns.
 
