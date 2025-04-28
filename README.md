@@ -30,7 +30,6 @@ The dataset included sales information such as product name, amount, customer ID
 ---
 
 ## 📂 Files Included
-- `SalesPractice.db` — SQLite database with SalesData table
 - `Day1_SalesData_Setup.sql` — SQL script to recreate and populate the SalesData table
 - `Day1_SQL_Practice_Checklist.xlsx` — Challenge tracker to monitor learning progress
 
