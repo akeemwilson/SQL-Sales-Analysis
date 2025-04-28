@@ -53,35 +53,35 @@ ORDER BY total_sales DESC;
 
 ### 1. Query: Select All Sales Data
 This query retrieves all sales records from the SalesData table.
-![Sales Data](sql screenshots/selectall.jpg)
+![Sales Data](sqlscreenshots/selectall.jpg)
 
 ### 2. Query: Top Selling Products
 This query shows the top-selling products by total sales amount.
-![Top Selling Products]()
+![Top Selling Products](sqlscreenshots/amount_descending.jpg)
 
 ### 3. Customer Spending Behavior
 This query calculates how much each customer has spent and how many purchases they made.
-![Customer Spending]()
+![Customer Spending](sqlscreenshots/Report.jpg)
 
 ### 4. Grouping - Sales by Product
 Find the total sales amount per product.
-![Sales by Product]()
+![Sales by Product](sqlscreenshots/product_amount.jpg)
 
 ### 5. Aggregation - Average Sale Amount
 Find the average amount per sale.
-![Average Sales]()
+![Average Sales](sqlscreenshots/average_sales.jpg)
 
 ### 6. Aggregation - Total Sales Amount
 Find the total amount of all sales.
-![Total Sales]()
+![Total Sales](sqlscreenshots/total_sales.jpg)
 
 ### 7. Highest Sale Amount First
 Show all sales ordered by amount from highest to lowest.
-![Sales Ranked from Highest to Lowest]()
+![Sales Ranked from Highest to Lowest](sqlscreenshots/amount_descending.jpg)
 
 ### 8. Only Laptop Sales
 Find sales where the product is 'Laptop'.
-![laptop Sales]()
+![laptop Sales](sqlscreenshots/laptop.jpg)
 
 ## 📸 Day 2 Screenshots
 
