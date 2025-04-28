@@ -97,3 +97,20 @@ SELECT *
 FROM SalesData
 WHERE product = 'Laptop';
 
+## 📸 Day 2 Screenshots
+
+### Challenge 1: Customer Purchases
+![Customer Purchases](Day2_Screenshots/challenge1_customer_purchases.jpg)
+
+### Challenge 2: Total Spent per Customer
+![Total Spent](Day2_Screenshots/challenge2_total_spent_per_customer.jpg)
+
+### Challenge 3: Loyalty Status Spending
+![Loyalty Status Spending](Day2_Screenshots/challenge3_loyalty_status_spending.jpg)
+
+### Challenge 4: High Value Sales
+![High Value Sales](Day2_Screenshots/challenge4_high_value_sales.jpg)
+
+### Mini Project: Customer Behavior Report
+![Customer Behavior Report](Day2_Screenshots/mini_project_customer_behavior_report.jpg)
+
