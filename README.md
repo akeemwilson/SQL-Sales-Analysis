@@ -32,6 +32,8 @@ The dataset included sales information such as product name, amount, customer ID
 ## 📂 Files Included
 - `Day1_SalesData_Setup.sql` — SQL script to recreate and populate the SalesData table
 - `Day1_SQL_Practice_Checklist.xlsx` — Challenge tracker to monitor learning progress
+- `Day2_CustomerInfo_Setup.sql` - SQL script to recreate and populate the CustomerInfo table
+- `Day2_CustomerPurchaseBehavior.sql` SQL file with queries
 
 ---
 
@@ -87,14 +89,14 @@ Find sales where the product is 'Laptop'.
 ![Customer Purchases](Day2_Screenshots/challenge1_customer_purchases.JPG)
 
 ### Challenge 2: Total Spent per Customer
-![Total Spent](Day2_Screenshots/challenge2_total_spent_per_customer.jpg)
+![Total Spent](Day2_Screenshots/challenge2_total_spent_per_customer.JPG)
 
 ### Challenge 3: Loyalty Status Spending
-![Loyalty Status Spending](Day2_Screenshots/challenge3_loyalty_status_spending.jpg)
+![Loyalty Status Spending](Day2_Screenshots/challenge3_loyalty_status_spending.JPG)
 
 ### Challenge 4: High Value Sales
-![High Value Sales](Day2_Screenshots/challenge4_high_value_sales.jpg)
+![High Value Sales](Day2_Screenshots/challenge4_high_value_sales.JPG)
 
 ### Mini Project: Customer Behavior Report
-![Customer Behavior Report](Day2_Screenshots/mini_project_customer_behavior_report.jpg)
+![Customer Behavior Report](Day2_Screenshots/mini_project_customer_behavior_report.JPG)
 
