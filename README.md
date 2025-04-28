@@ -48,3 +48,11 @@ FROM SalesData
 GROUP BY product
 ORDER BY total_sales DESC;
 
+## 📸 Screenshots
+
+### 1. Query: Select All Sales Data
+This query retrieves all sales records from the SalesData table.
+
+```sql
+SELECT * FROM SalesData;
+
