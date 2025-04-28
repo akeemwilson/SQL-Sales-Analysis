@@ -51,50 +51,35 @@ ORDER BY total_sales DESC;
 
 ### 1. Query: Select All Sales Data
 This query retrieves all sales records from the SalesData table.
-
-```sql
-SELECT * FROM SalesData;
+![Sales Data]()
 
 ### 2. Query: Top Selling Products
 This query shows the top-selling products by total sales amount.
-SELECT product, SUM(amount) AS total_sales
-FROM SalesData
-GROUP BY product
-ORDER BY total_sales DESC;
+![Top Selling Products]()
 
 ### 3. Customer Spending Behavior
 This query calculates how much each customer has spent and how many purchases they made.
-SELECT customer_id, SUM(amount) AS total_spent, COUNT(*) AS number_of_purchases
-FROM SalesData
-GROUP BY customer_id;
+![Customer Spending]()
 
 ### 4. Grouping - Sales by Product
 Find the total sales amount per product.
-SELECT product, SUM(amount) AS total_product_sales
-FROM SalesData
-GROUP BY product;
+![Sales by Product]()
 
 ### 5. Aggregation - Average Sale Amount
 Find the average amount per sale.
-SELECT AVG(amount) AS avg_sale
-FROM SalesData;
+![Average Sales]()
 
 ### 6. Aggregation - Total Sales Amount
 Find the total amount of all sales.
-SELECT SUM(amount) AS total_sales
-FROM SalesData;
+![Total Sales]()
 
 ### 7. Highest Sale Amount First
 Show all sales ordered by amount from highest to lowest.
-SELECT *
-FROM SalesData
-ORDER BY amount DESC;
+![Sales Ranked from Highest to Lowest]()
 
-### 8.  how Only Laptop Sales
+### 8. Only Laptop Sales
 Find sales where the product is 'Laptop'.
-SELECT *
-FROM SalesData
-WHERE product = 'Laptop';
+![laptop Sales]()
 
 ## 📸 Day 2 Screenshots
 
