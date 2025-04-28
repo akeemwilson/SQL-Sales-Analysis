@@ -100,7 +100,7 @@ WHERE product = 'Laptop';
 ## 📸 Day 2 Screenshots
 
 ### Challenge 1: Customer Purchases
-![Customer Purchases](Day2_Screenshots/challenge1_customer_purchases.jpg)
+![Customer Purchases](SQL-Sales-Analysis/Day2_Screenshots/challenge1_customer_purchases.jpg)
 
 ### Challenge 2: Total Spent per Customer
 ![Total Spent](Day2_Screenshots/challenge2_total_spent_per_customer.jpg)
