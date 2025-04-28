@@ -35,3 +35,10 @@ SELECT
 FROM SalesData s
 INNER JOIN CustomerInfo c ON s.customer_id = c.customer_id
 GROUP BY c.customer_name, c.city, c.loyalty_status;
+
+SELECT c.customer_name, SUM(s.amount) AS total_spent
+FROM SalesData s
+INNER JOIN CustomerInfo c ON s.customer_id = c.customer_id
+GROUP BY c.customer_name
+ORDER BY total_spent DESC
+LIMIT 3;
