@@ -46,7 +46,7 @@ SELECT product, SUM(amount) AS total_sales
 FROM SalesData
 GROUP BY product
 ORDER BY total_sales DESC;
-
+```
 ## 📸 Screenshots
 
 ### 1. Query: Select All Sales Data
