@@ -53,7 +53,7 @@ ORDER BY total_sales DESC;
 
 ### 1. Query: Select All Sales Data
 This query retrieves all sales records from the SalesData table.
-![Sales Data]()
+![Sales Data](sql screenshots/selectall.jpg)
 
 ### 2. Query: Top Selling Products
 This query shows the top-selling products by total sales amount.
